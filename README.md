@@ -21,9 +21,9 @@ Study Forge is a comprehensive note-taking application designed for students and
 
 ## Installation & Setup
 1. Ensure you have Java JDK 8 or higher installed
-2. Clone this repository: `git clone https://github.com/yourusername/study-forge.git`
-3. Navigate to the project directory: `cd study-forge`
-4. Compile the Java files: `javac *.java`
+2. Clone this repository: `git clone https://github.com/Prabuddhiraj/Study-Forge.git`
+3. Navigate to the project directory: `cd NoteOrganizer`
+4. Compile the Java files: `javac -d . src/*.java`
 5. Run the application: `java Main`
 
 ## Testing
