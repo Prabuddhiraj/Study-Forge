@@ -29,8 +29,7 @@ Study Forge is a comprehensive note-taking application designed for students and
 ## Testing
 - Run the application and test all menu options
 - Verify note creation, editing, and deletion
-- Test file attachment functionality<img width="861" height="125" alt="Screenshot 2025-11-24 211716" src="https://github.com/user-attachments/assets/22aac203-a37c-4bb7-8947-384ded4b301d" />
-
+- Test file attachment functionality
 - Confirm automatic backup creates files in `data/` directory
 - Test search functionality with various keywords
 
